@@ -1,0 +1,10 @@
+next.js
+react
+
+go
+supabase
+redis
+
+tanstack
+react hook form
+zod
