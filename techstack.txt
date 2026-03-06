@@ -8,3 +8,5 @@ redis
 tanstack
 react hook form
 zod
+
+k6
